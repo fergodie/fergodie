@@ -2,7 +2,7 @@
 <div align="center">
  
 
-  <h3 align="center">Hi there, Im Diego Fernandez Welcome to my Gitgub</h3>
+  <h3 align="center">Hi there, Im Diego Fernandez Welcome to my Github</h3>
 
 
 </div>
