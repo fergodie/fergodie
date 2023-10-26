@@ -1,4 +1,5 @@
 ### Hi there 👋
+![tumblr_nlbcj0PiD51rp0vkjo1_500](https://github.com/fergodie/fergodie/assets/142615772/85472fcb-0f98-4376-bb82-b0ac0e2cb0ad)
 
 <!--
 **fergodie/fergodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
