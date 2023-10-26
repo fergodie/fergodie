@@ -1,5 +1,5 @@
 ### Hi there, Im Diego Fernandez👋
-![tumblr_nlbcj0PiD51rp0vkjo1_500](https://github.com/fergodie/fergodie/assets/142615772/85472fcb-0f98-4376-bb82-b0ac0e2cb0ad)
+![wp3284851](https://github.com/fergodie/fergodie/assets/142615772/eb67b6e6-fb27-41d8-a210-62a898181700)
 
 <!--
 **fergodie/fergodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
